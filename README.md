@@ -29,11 +29,10 @@ npm install
 ```powershell
 ng serve
 ```
-5.Ouvrir 
+5.Ouvrir dans votre navigateur
 ```powershell
 http://localhost:4200
 ```
-dans votre navigateur
 
 🧩 Fonctionnalités
 -Navigation entre Home et Products
