@@ -42,3 +42,7 @@ Ouvrir http://localhost:4200 dans votre navigateur.
 
 ✅ Boutons stylisés dynamiquement selon la route active
 
+
+![image](https://github.com/user-attachments/assets/dadba606-e96e-4968-82c7-5480380a8afc)
+
+
