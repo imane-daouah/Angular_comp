@@ -22,7 +22,7 @@ ProductsComponent : Affiche une liste de produits avec un bouton de suppression 
 ```powershell
 git clone https://github.com/imane-daouah/Angular_comp.git
 ```
-2. Cloner le projet
+2. Vers le projet
 ```powershell
 cd Angular_comp
 ```
