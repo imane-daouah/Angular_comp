@@ -27,7 +27,7 @@ git clone https://github.com/imane-daouah/Angular_comp.git
 cd Angular_comp
 ```
 
-4. Installer les dépendances
+3. Installer les dépendances
 ```powershell
 npm install
 ```
