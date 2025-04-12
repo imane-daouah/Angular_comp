@@ -17,22 +17,24 @@ ProductsComponent : Affiche une liste de produits avec un bouton de suppression 
 
 🚀 Démarrage rapide
 1. Cloner le projet
-bash
-Copier
-Modifier
-git clone <URL_DU_REPO>
+```powershell
+git clone https://github.com/imane-daouah/Angular_comp.git
+```
 cd nom-du-projet
-2. Installer les dépendances
-bash
-Copier
-Modifier
+3. Installer les dépendances
+```powershell
 npm install
-3. Lancer le serveur de développement
-bash
-Copier
-Modifier
+```
+4. Lancer le serveur de développement
+```powershell
 ng serve
-Ouvrir http://localhost:4200 dans votre navigateur.
+```
+5.Ouvrir 
+```powershell
+http://localhost:4200
+```
+dans votre navigateur
+
 🧩 Fonctionnalités
 -Navigation entre Home et Products
 
