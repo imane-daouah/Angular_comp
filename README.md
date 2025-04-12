@@ -20,8 +20,12 @@ ProductsComponent : Affiche une liste de produits avec un bouton de suppression 
 ```powershell
 git clone https://github.com/imane-daouah/Angular_comp.git
 ```
-cd nom-du-projet
-3. Installer les dépendances
+2. Cloner le projet
+```powershell
+cd Angular_comp
+```
+
+4. Installer les dépendances
 ```powershell
 npm install
 ```
