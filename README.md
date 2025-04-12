@@ -2,7 +2,8 @@
 Cette commande permet de créer un nouveau projet Angular **en utilisant le système basé sur les modules** (et non les composants standalone).
 
 🔹 Il est recommandé d’utiliser les **composants standalone** si vous travaillez avec **un seul module ou une architecture légère**.  
-🔹 Mais dans notre cas, comme nous utilisons plusieurs composants organisés avec des **modules Angular classiques**, on utilise l’option `--no-standalone`.
+🔹 Mais dans notre cas, comme nous utilisons plusieurs composants organisés avec des **modules Angular classiques**, on utilise l’option 
+`--no-standalone`.
 
 
 📘 **Mini App Angular – Home & Products**
