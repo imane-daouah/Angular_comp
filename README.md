@@ -32,15 +32,15 @@ Modifier
 ng serve
 Ouvrir http://localhost:4200 dans votre navigateur.
 🧩 Fonctionnalités
-✅ Navigation entre Home et Products
+-Navigation entre Home et Products
 
-✅ Affichage d'une liste de produits
+-Affichage d'une liste de produits
 
-✅ Suppression d’un produit
+-Suppression d’un produit
 
-✅ Recherche de produits par nom
+-Recherche de produits par nom
 
-✅ Boutons stylisés dynamiquement selon la route active
+-Boutons stylisés dynamiquement selon la route active
 
 
 ![image](https://github.com/user-attachments/assets/dadba606-e96e-4968-82c7-5480380a8afc)
